@@ -1,0 +1,6 @@
+framework module EilOpenGL {
+  umbrella header "EilOpenGL-umbrella.h"
+
+  export *
+  module * { export * }
+}

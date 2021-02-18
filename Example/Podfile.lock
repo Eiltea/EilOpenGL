@@ -1,0 +1,16 @@
+PODS:
+  - EilOpenGL (0.1.0)
+
+DEPENDENCIES:
+  - EilOpenGL (from `../`)
+
+EXTERNAL SOURCES:
+  EilOpenGL:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EilOpenGL: 9f2b9a6021d72224d92d7027ee870e4976777d61
+
+PODFILE CHECKSUM: 45452d25cb3cd840aaff1b083fb3c3ac78fce3d3
+
+COCOAPODS: 1.10.1

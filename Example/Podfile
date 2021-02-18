@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'EilOpenGL_Example' do
+  pod 'EilOpenGL', :path => '../'
+
+  target 'EilOpenGL_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

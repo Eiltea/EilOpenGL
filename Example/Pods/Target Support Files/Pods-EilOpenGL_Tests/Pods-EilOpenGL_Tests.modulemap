@@ -1,0 +1,6 @@
+framework module Pods_EilOpenGL_Tests {
+  umbrella header "Pods-EilOpenGL_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
